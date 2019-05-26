@@ -1,0 +1,33 @@
+const fonts = {
+    serif: [
+        // 'Source Sans Pro',
+        // 'Nunito',
+        // 'Fira Sans',
+        // 'Rufina',
+        'Aleo',
+        'Georgia',
+        'Times',
+        'Times New Roman',
+        'MS Serif',
+        'New York',
+        'Palatino',
+        'Garamond',
+        'serif',
+    ],
+    sans: [
+        // 'Fira Sans',
+        // 'Open Sans',
+        'Nunito',
+        'Source Sans Pro',
+        '-apple-system',
+        'BlinkMacSystemFont',
+        'Segoe UI',
+        'Helvetica',
+        'Arial',
+        'sans-serif',
+        'Apple Color Emoji',
+        'Segoe UI Emoji',
+        'Segoe UI Symbol',
+    ],
+}
+export default fonts
